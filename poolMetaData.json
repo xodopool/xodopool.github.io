@@ -2,5 +2,6 @@
 "name": "XODO",
 "description": "XODO is a small pool doing its part for the Cardano network. We hope to at least break even to pay our costs. Please consider pledging a small or large amount of ADA to [XODO]. Thank you!",
 "ticker": "XODO",
-"homepage": "https://xodopool.github.io"
+"homepage": "https://xodopool.github.io",
+"extended": "https://xodopool.github.io/xodoExtended.json"
 }
