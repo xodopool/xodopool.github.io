@@ -3,30 +3,10 @@
         "url_png_icon_64x64": "https://xodopool.github.io/xodo64x64.png",,
         "url_png_logo": "https://xodopool.github.io/xodo-lg.png",
         "location": "Germany",
-        "social": {
-            "instagram_handle": "",
-            "discord_handle": "",
-            "reddit_handle": "",
-            "twitter_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "telegram_handle": "",
-            "github_handle": ""
-        },
-        "company": {
-            "name": "XODO Pool",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
-        },
         "about": {
             "me": "Software developer and IT professional. Strong Sysops experience",
             "server": "Block producer and 3 Relays (2 hidden)",
             "company": ""
-        },
-        "rss": ""
+        }
     }
 }
