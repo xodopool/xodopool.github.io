@@ -2,14 +2,10 @@
     "info": {
         "url_png_icon_64x64": "https://xodopool.github.io/xodo64x64.png",,
         "url_png_logo": "https://xodopool.github.io/xodo-lg.png",
-        "location": "Germany",
         "about": {
             "me": "Software developer and IT professional. Strong Sysops experience",
             "server": "Block producer and 3 Relays (2 hidden)",
             "company": ""
-        },
-        "my-pool-ids": {
-             "0": "pool13zagy9a4nnhgme5wcnl0w3xzt523yn76jxh52360rryexc9f9dc"
-                }
+        }
     }
 }
