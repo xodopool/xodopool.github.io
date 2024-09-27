@@ -4,7 +4,7 @@
         "url_png_logo": "https://xodopool.github.io/xodo-lg.png",
         "about": {
             "me": "Software developer and IT professional. Strong Sysops experience",
-            "server": "Block producer and 3 Relays (2 hidden)",
+            "server": "Block producer and 2 Relays (and 2 hidden)",
             "company": ""
         }
     }
